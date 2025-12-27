@@ -25,17 +25,17 @@ It evaluates return, volatility, and risk-adjusted performance to demonstrate pr
 - Comparative cumulative return plot saved in `outputs/plots/`
 
 ## Project Structure 
-FINANCIAL-MARKET-ANALYTICS/
-- analysis/
-  --market_analysis.py
+Time-Series Performance Analysis
+- analysis
+  -market_analysis.py
 
-- data/
-  --AAPL.csv
-  --SP500.csv
+- data
+  - AAPL.csv
+   SP500.csv
 
-- outputs/
-  --plots/
-  --apple_vs_sp500.png
+- outputs
+  - plots
+  - apple_vs_sp500.png
 
 - README.md
 - requirements.txt 
