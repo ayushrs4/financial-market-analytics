@@ -1,7 +1,7 @@
 # Time-Series Performance Analysis: Apple vs S&P 500
 
 ## Overview
-This project performs a comparative financial analysis between Apple Inc. (AAPL) and the S&P 500 index using historical market data.  
+This project performs a comparative time series performance analysis between Apple Inc. (AAPL) and the S&P 500 index using historical market data.  
 It evaluates return, volatility, and risk-adjusted performance to demonstrate practical financial analytics skills.
 
 ## Key Objectives
